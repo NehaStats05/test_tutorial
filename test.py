@@ -8,3 +8,5 @@ print("\nList of numbers: ")
 print(list)
 
 print(len(list))
+
+print("length of the list")
