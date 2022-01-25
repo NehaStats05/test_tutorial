@@ -7,3 +7,4 @@ list=[10,20,30]
 print("\nList of numbers: ")
 print(list)
 
+print(len(list))
